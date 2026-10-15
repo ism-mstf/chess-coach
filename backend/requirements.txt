@@ -1,0 +1,8 @@
+# Backend requirements
+fastapi
+uvicorn[standard]
+python-chess
+sqlalchemy
+pydantic
+requests
+python-dotenv
